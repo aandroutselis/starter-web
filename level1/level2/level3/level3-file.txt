@@ -1,0 +1,8 @@
+aandroutselis@IIPL0032 MINGW64 ~/projects/starter-web (master)
+$ git push origin master
+aandroutselis@IIPL0032 MINGW64 ~/projects/starter-web (master)
+$ git push origin master
+aandroutselis@IIPL0032 MINGW64 ~/projects/starter-web (master)
+$ git push origin master
+aandroutselis@IIPL0032 MINGW64 ~/projects/starter-web (master)
+$ git push origin master
